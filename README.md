@@ -1,19 +1,31 @@
-<h1 align='center'>Hi there 👋</h1>
+### Hi! 👋 I'm Alvin Indra.
+I’m a Front-End Developer with 2+ years of experience in fields such as Web Designer. My primary focus is on slicing website with design from Figma or Adobe XD. Another is integrating API to the application with Axios.
 
-<p align='center'>I am a Front-End Developer 💛 and Flutter Enthusiast 🤗. </p>
+- 🔭 I’m currently working on <a href="https://www.linkedin.com/company/pt-paninti-hub-indonesia">PT Paninti Hub Indonesia</a>
+- 🌱 I’m currently learning about automation testing and performance web
+- 💬 Feel free to ask me about front-end web development
+- 📫 How to reach me: alvinindrap@gmail.com
+- ⚡ My Wish : Will Be A Successful Entrepreneur
 
-<p align='center'>
-<a href="https://twitter.com/alvinindrapra">
-  <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
-</a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/alvinindra">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/alvin_indrap/">
-  <img src="https://img.shields.io/badge/instagram-%23DD2A7B.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
-</a>&nbsp;&nbsp;
-<a href="mailto:alvinindrap@gmail.com">
-  <img src="https://img.shields.io/badge/email me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
-</a>&nbsp;&nbsp;
-<!-- <img src="https://img.shields.io/badge/instagram-%23DD2A7B.svg?&style=for-the-badge&logo=instagram&logoColor=white" /> -->
+### Tech Stack
+  <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
+  <a href="https://nodejs.org/"><img align="left" alt="NodeJS" title="NodeJS" width="21px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" /></a>
+  <a href="https://vuejs.org/"><img align="left" alt="Vue" title="Vue" width="21px" src="https://vuejs.org/images/icons/favicon-32x32.png" /></a>
+  <a href="https://nuxtjs.org/"><img align="left" alt="Nuxt" title="Nuxt (Vue SSR Framework)" width="21px" src="https://nuxtjs.org/favicon.ico" /> </a>
+  <a href="https://sass-lang.com/"><img align="left" alt="Sass" title="Sass: Syntactically Awesome Style Sheets" width="26px" src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" /> </a>
+  <br>
+  <br>
+  
+### Github Statistic
+<p align="left">
+<a href="https://github.com/alvinindra">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=alvinindra&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alvinindra&layout=compact&langs_count=8&theme=algolia"/>
+</a>
 </p>
+
+### Reach me on
+- <a href="https://linkedin.com/in/alvinindra/">LinkedIn</a>
+- <a href="https://alvinblog.space">alvinblog.space</a>
+- alvinidnrap@gmail.com
+- <a href="https://www.instagram.com/alvin_indrap">Instagram</a>
