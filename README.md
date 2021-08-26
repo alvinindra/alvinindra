@@ -2,7 +2,7 @@
 I’m a Front-End Developer with 2+ years of experience in fields such as Web Designer. My primary focus is on slicing website with design from Figma or Adobe XD. Another is integrating API to the application with Axios.
 
 - 🔭 I’m currently working on <a href="https://www.linkedin.com/company/pt-paninti-hub-indonesia">PT Paninti Hub Indonesia</a>
-- 🌱 I’m currently learning about Vue 3, Automation Testing and Performance Web
+- 🌱 I’m currently learning about Vue 3, Google Cloud Engineer and Performance Web
 - 💬 Feel free to ask me about front-end web development
 - 📫 How to reach me: alvinindrap@gmail.com
 - ⚡ My Wish : Will Be A Successful Entrepreneur
