@@ -27,7 +27,7 @@ I’m a Front-End Developer with 2+ years of experience in fields such as Web De
 ### Reach me on
 - <a href="https://linkedin.com/in/alvinindra/">LinkedIn</a>
 - <a href="https://alvinblog.space">alvinblog.space</a>
-- alvinidnrap@gmail.com
+- alvinindrap@gmail.com
 - <a href="https://www.instagram.com/alvin_indrap">Instagram</a>
 
 ![](https://komarev.com/ghpvc/?username=alvinindra&label=PROFILE+VIEWS)
