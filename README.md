@@ -1,5 +1,5 @@
 ### Hi! 👋 I'm Alvin Indra.
-I’m a Front-End Developer with 2+ years of experience in fields such as Web Designer. My primary focus is on slicing website with design from Figma or Adobe XD. Another is integrating API to the application with Axios.
+A Front-End Web Developer with 2+ years of experience. Now working on PT Paninti Hub Indonesia as Front-End Developer for the Web Platform Team. Maintaining 4+ web application in a single monorepo and guiding a new Front-End Web Developer to work with company.
 
 - 🔭 I’m currently working on <a href="https://www.linkedin.com/company/pt-paninti-hub-indonesia">PT Paninti Hub Indonesia</a>
 - 🌱 I’m currently learning about Vue 3, Microfront-end and Performance Web
