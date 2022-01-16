@@ -2,7 +2,7 @@
 A Front-End Web Developer with 2+ years of experience. Now working on PT Paninti Hub Indonesia as Front-End Developer for the Web Platform Team. Maintaining 4+ web application in a single monorepo and guiding a new Front-End Web Developer to work with company.
 
 - 🔭 I’m currently working on <a href="https://www.linkedin.com/company/pt-paninti-hub-indonesia">PT Paninti Hub Indonesia</a>
-- 🌱 I’m currently learning about Vue 3, Microfront-end and Performance Web
+- 🌱 I’m currently learning about SSR, Microfront-end and Performance Web
 - 💬 Feel free to ask me about front-end web development
 - 📫 How to reach me: alvinindrap@gmail.com
 - ⚡ My Wish : Will Be A Successful Entrepreneur
