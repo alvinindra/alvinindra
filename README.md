@@ -26,7 +26,7 @@ A Front-End Web Developer with 2+ years of experience. Now working on PT Paninti
 
 ### Reach me on
 - <a href="https://linkedin.com/in/alvinindra/">LinkedIn</a>
-- <a href="https://alvinblog.space">alvinblog.space</a>
+- <a href="https://alvinindra.space">alvinindra.space</a>
 - alvinindrap@gmail.com
 - <a href="https://www.instagram.com/alvin_indrap">Instagram</a>
 
