@@ -13,6 +13,8 @@ A Front-End Web Developer with 2+ years of experience. Now working on PT Paninti
   <a href="https://vuejs.org/"><img align="left" alt="Vue" title="Vue" width="21px" src="https://v2.vuejs.org/images/logo.svg" /></a>
   <a href="https://nuxtjs.org/"><img align="left" alt="Nuxt" title="Nuxt (Vue SSR Framework)" width="21px" src="https://cdn.iconscout.com/icon/free/png-64/nuxt-dot-js-3521615-2945059.png" /> </a>
   <a href="https://sass-lang.com/"><img align="left" alt="Sass" title="Sass: Syntactically Awesome Style Sheets" width="26px" src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" /> </a>
+<a href="https://reactjs.org/"><img align="left" alt="React" title="Reactjs" width="21px" src="https://cdn.iconscout.com/icon/free/png-128/react-3-1175109.png" /></a>
+<a href="https://nextjs.org/"><img align="left" alt="Nextjs" title="Nextjs" width="20px" src="https://raw.githubusercontent.com/Rohan-Shakya/Rohan-Shakya/master/images/next_logo.png" /></a>
   <br>
   <br>
   
