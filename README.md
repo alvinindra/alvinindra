@@ -1,5 +1,5 @@
 ### Hi! 👋 I'm Alvin Indra.
-A Front-End Web Developer with 2+ years of experience. Now working on PT Paninti Hub Indonesia as Front-End Developer for the Web Platform Team. Maintaining 4+ web application and guiding a new Front-End Web Developer to work with company.
+A Front-End Web Developer with 3 years of experience. Now working on PT Paninti Hub Indonesia as Front-End Developer for the Web Platform Team. Maintaining 4+ web application and guiding a new Front-End Web Developer to work with company.
 
 - 🔭 I’m currently working on <a href="https://www.linkedin.com/company/pt-paninti-hub-indonesia">PT Paninti Hub Indonesia</a>
 - 🌱 I’m currently learning about SSR, React.js and Next.js
