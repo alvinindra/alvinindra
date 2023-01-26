@@ -28,7 +28,7 @@ A Frontend Developer with 3 years of experience. Focusing on Vue.js, Create tech
 
 ### Reach me on
 - <a href="https://linkedin.com/in/alvinindra/">LinkedIn</a>
-- <a href="https://alvinindra.space">alvinindra.space</a>
+- <a href="https://alvinindra.com">alvinindra.com</a>
 - alvinindrap@gmail.com
 - <a href="https://www.instagram.com/alvin_indrap">Instagram</a>
 
