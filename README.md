@@ -1,7 +1,7 @@
 ### Hi! 👋 I'm Alvin Indra.
 A Product Engineer - React, Ex Frontend Developer with 3 years of experience focus on Vue.js. For now focusing on React.js, Create technical documentation and interview candidate, Maintaining 5+ web application and guiding a new Frontend Developer to work with company. My goal is to improve the application into efficient and optimized, learning React, typescript and build the design system.
 
-- 🔭 I’m currently working on <a href="https://www.linkedin.com/company/pt-paninti-hub-indonesia">PT Paninti Hub Indonesia</a>
+- 🔭 I’m currently working on <a href="https://www.linkedin.com/company/dicoding">Dicoding Indonesia</a>
 - 🌱 I’m currently learning about SSR, React.js and Next.js
 - 💬 Feel free to ask me about front-end web development
 - 📫 How to reach me: alvinindrap@gmail.com
