@@ -1,5 +1,5 @@
 ### Hi! 👋 I'm Alvin Indra.
-A Frontend Engineer with 4 years of experience. Focusing on Vue.js and React.js, Create technical documentation and interview candidate, Maintaining 5+ web application and guiding a new Frontend Developer to work with company. My goal is to improve the project into reusable, efficient and optimized.
+An Intermediate Frontend Engineer with 4 years of experience. Focusing on tech stack Vue.js and React.js, I am passionate about front-end web development and continue to explore new technologies to improve user experience. My expertise lies in turning designs into high-quality code, leveraging my skills in quickly creating web design, accessibility, and performance.
 
 - 🔭 I’m currently working on <a href="https://www.linkedin.com/company/dicoding">Dicoding Indonesia</a>
 - 🌱 I’m currently learning Vue.js for preparation to Certification Vue.js Developer and other things is expertizing React.js/Next.js
