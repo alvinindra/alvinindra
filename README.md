@@ -8,7 +8,6 @@ An Intermediate Frontend Developer with 4 years of experience. Focusing on tech 
 
 ### Tech Stack
   <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
-  <a href="https://nodejs.org/"><img align="left" alt="NodeJS" title="NodeJS" width="21px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" /></a>
   <a href="https://vuejs.org/"><img align="left" alt="Vue" title="Vue" width="21px" src="https://v2.vuejs.org/images/logo.svg" /></a>
   <a href="https://nuxtjs.org/"><img align="left" alt="Nuxt" title="Nuxt (Vue SSR Framework)" width="21px" src="https://cdn.iconscout.com/icon/free/png-64/nuxt-dot-js-3521615-2945059.png" /> </a>
   <a href="https://sass-lang.com/"><img align="left" alt="Sass" title="Sass: Syntactically Awesome Style Sheets" width="26px" src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" /> </a>
