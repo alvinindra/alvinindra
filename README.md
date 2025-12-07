@@ -1,5 +1,5 @@
 ### Hi! 👋 I'm Alvin Indra.
-An Intermediate Frontend Developer with 4 years of experience. Focusing on tech stack Vue.js and React.js, I am passionate about front-end web development and continue to explore new technologies to improve user experience. My expertise lies in turning designs into high-quality code, leveraging my skills in quickly creating web design, accessibility, and performance.
+An Frontend Developer with 6+ years of experience. Focusing on tech stack Vue.js and React.js, I am passionate about front-end web development and continue to explore new technologies to improve user experience. My expertise lies in turning designs into high-quality code, leveraging my skills in quickly creating web design, accessibility, and performance.
 
 - 🌱 I’m currently learning Vue.js for preparation to Certification Vue.js Developer and other things is expertizing React.js/Next.js/Nuxt.js
 - 💬 Feel free to ask me about front-end web development
