@@ -27,19 +27,10 @@ An Frontend Developer with 6+ years of experience. Focusing on tech stack Vue.js
 <br>
 <br>
 
-### Github Statistic
-<p align="left">
-<a href="https://github.com/alvinindra">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=alvinindra&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alvinindra&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
-
 ### Reach me on
-- <a href="https://linkedin.com/in/alvinindra/">LinkedIn</a>
+- <a href="https://linkedin.com/in/alvinindrap/">LinkedIn</a>
 - <a href="https://twitter.com/alvinindrapra">Twitter</a>
 - <a href="https://alvinindra.com">alvinindra.com</a>
 - alvinindrap@gmail.com
-- <a href="https://www.instagram.com/alvin_indrap">Instagram</a>
 
 ![](https://komarev.com/ghpvc/?username=alvinindra&label=PROFILE+VIEWS)
